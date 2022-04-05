@@ -34,3 +34,7 @@
 	path = connector
 	url = https://github.com/OCA/connector.git
 	branch = 14.0
+[submodule "web"]
+	path = web
+	url = https://github.com/OCA/web.git
+	branch = 14.0
