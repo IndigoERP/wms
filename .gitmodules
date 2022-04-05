@@ -26,3 +26,7 @@
 	path = server-auth
 	url = https://github.com/OCA/server-auth.git
 	branch = 14.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = https://github.com/OCA/delivery-carrier.git
+	branch = 14.0
