@@ -30,3 +30,7 @@
 	path = delivery-carrier
 	url = https://github.com/OCA/delivery-carrier.git
 	branch = 14.0
+[submodule "connector"]
+	path = connector
+	url = https://github.com/OCA/connector.git
+	branch = 14.0
