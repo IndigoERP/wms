@@ -10,3 +10,7 @@
 	path = product-attribute
 	url = https://github.com/OCA/product-attribute.git
 	branch = 14.0
+[submodule "stock-logistics-transport"]
+	path = stock-logistics-transport
+	url = https://github.com/OCA/stock-logistics-transport.git
+	branch = 14.0
